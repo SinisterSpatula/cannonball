@@ -14,4 +14,4 @@ What's changed in this fork
 
 Getting it to work for Raspberry pi zero/Retroflag Gpi Case.
 
-Build and install instructions coming soon.
+Build and install [instructions are located here](https://sinisterspatula.github.io/SuperRetropieGuides/cannonball)
